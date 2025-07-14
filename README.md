@@ -1,4 +1,4 @@
-# staj
+# MyFlutterApp
 
 A new Flutter project.
 
