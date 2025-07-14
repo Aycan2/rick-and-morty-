@@ -1,0 +1,18 @@
+{
+  "@@locale": "en",
+  "appTitle": "Rick and Morty",
+  "characters": "Characters",
+  "favorites": "Favorites",
+  "searchHint": "Search...",
+  "noFavorites": "No favorite characters yet.",
+  "noFavoritesFound": "No favorite characters found for your search.",
+  "speciesLabel": "Species:",
+  "statusLabel": "Status:",
+  "loading": "Loading...",
+  "errorLoading": "Failed to load data.",
+  "favoriteButtonLabel": "Toggle Favorite",
+  "favoriteAdded": "Added to favorites",
+  "favoriteRemoved": "Removed from favorites",
+  "noCharactersLoaded": "Characters could not be loaded or there are no characters.",
+  "noCharactersFound": "No characters found for your search."
+}

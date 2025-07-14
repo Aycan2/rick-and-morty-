@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDnSG7I-scQOPqR-8iyT1iTcSqPcSEmO3I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>912907642951</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.staj.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>stajcopy</string>
+	<key>STORAGE_BUCKET</key>
+	<string>stajcopy.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:912907642951:ios:80e717cd76a2cbab64e962</string>
+</dict>
+</plist>

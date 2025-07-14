@@ -1,0 +1,18 @@
+{
+  "@@locale": "tr",
+  "appTitle": "Rick ve Morty",
+  "characters": "Karakterler",
+  "favorites": "Favoriler",
+  "searchHint": "Ara...",
+  "noFavorites": "Henüz favori karakter yok.",
+  "noFavoritesFound": "Aramaya uygun favori karakter bulunamadı.",
+  "speciesLabel": "Tür:",
+  "statusLabel": "Durum:",
+  "loading": "Yükleniyor...",
+  "errorLoading": "Veri yüklenemedi.",
+  "favoriteButtonLabel": "Favori Ekle/Çıkar",
+  "favoriteAdded": "Favorilere eklendi",
+  "favoriteRemoved": "Favorilerden çıkarıldı",
+  "noCharactersLoaded": "Karakterler yüklenemedi veya hiç karakter yok.",
+  "noCharactersFound": "Aramanıza uygun karakter bulunamadı."
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912907642951",
+    "project_id": "stajcopy",
+    "storage_bucket": "stajcopy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912907642951:android:49d101e883644bec64e962",
+        "android_client_info": {
+          "package_name": "com.example.staj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHU_gZCoH-FfU7VlAfaK6FZEpavO11BGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
